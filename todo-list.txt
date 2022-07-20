@@ -1,0 +1,4 @@
+To Do List: 
+    -finishing Git Basics
+    -washing face 
+    -brushing teeth
