@@ -1,4 +1,6 @@
 To Do List: 
-    -finishing Git Basics
+    -finish assignments
     -washing face 
     -brushing teeth
+    -go on a walk 
+    
